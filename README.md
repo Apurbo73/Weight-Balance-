@@ -1,4 +1,4 @@
-﻿# Weight-Balance:
+﻿# Weight Balance:
  
 This C++ program determines if a person's weight gain over a month is within a healthy or expected range. For each test case, it reads the initial weight (w1), final weight (w2), minimum and maximum weight gain per month (x1, x2), and the number of months (M). It calculates the minimum and maximum possible gain over M months and compares it with the actual gain (w2 - w1).
 
